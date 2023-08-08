@@ -60,7 +60,7 @@ body {
 .customSelect, .form .select, .form .textarea, .form .text-input, .form .checkbox-input + label {
   font: inherit;
   line-height: normal;
-  width: 100%;
+  width: 90%;
   box-sizing: border-box;
   background: #353535;
   color: white;
