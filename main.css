@@ -98,7 +98,7 @@ body {
 .form .option-input + label, .form .checkbox-input + label {
   display: inline-block;
   width: auto;
-  color: #4E4E4E;
+  color: #8d8888;
   position: relative;
   -webkit-user-select: none;
      -moz-user-select: none;
