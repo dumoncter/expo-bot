@@ -71,7 +71,9 @@
     let form = document.getElementsByClassName('form');
     let button = document.getElementsByClassName('button');
     tg.expand();
-
+        Telegram.WebApp.MainButton.setText('CLOSE').show().onClick(function () {
+        Telegram.WebApp.close();
+    });
     form.addEventListener('click', () => {
         tg.close()
     });
